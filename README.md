@@ -1,7 +1,7 @@
 Bike Revenue Analysis Project
 
 Overview
-Welcome to the Bike Revenue Analysis project! This project aims to provide actionable insights into bike sales performance through a comprehensive analysis of sales data. Leveraging SQL for data manipulation and Power BI for visualization, we unravel the intricate tapestry of bike sales performance and unlock actionable insights to drive strategic decision-making.
+Welcome to the Bike Revenue Analysis project! This project aims to provide actionable insights into bike sales performance through a comprehensive analysis of sales data. Leveraging SQL for data manipulation and Power BI for visualization, I unravel the intricate tapestry of bike sales performance and unlock actionable insights to drive strategic decision-making.
 
 Project Components
 
